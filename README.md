@@ -3,4 +3,4 @@ The Visual Novel Scripting Language (VNSL) was my design for a way of defining t
 
 I designed this when I was building a Visual Novel gaming engine for the Web as a Side project. 
 
-You can read the full [specification](spec.md). 
+You can read the full [specification](SPEC.md). 
